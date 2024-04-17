@@ -47,3 +47,4 @@ public class task_1 {
         System.out.println(data);
     }
 }
+

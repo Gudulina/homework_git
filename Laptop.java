@@ -29,3 +29,4 @@ public class Laptop {
         return (int) (this.trademark.hashCode() + this.RAM + this.diagonal + this.hardDrive + this.price);
     }
 }
+
